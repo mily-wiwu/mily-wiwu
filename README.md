@@ -1,19 +1,12 @@
 
-<h1 align="center"><b>Hi, I'm Mily </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><!--  -->A
+<h1 align="center"><b>Hola! soy Mily </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1><!--  -->
 
-**About me**
+**Sobre mi**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
-<br>
-
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
-
-<br><br>
+💻 Estudiante de Ingeniería Civil en Informática
+✨ Areas de interés: Ciberseguridad, desarrollo de software
+📌 Trabajando en proyectos de POO
+☕ Adicta al café
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
