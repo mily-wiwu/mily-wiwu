@@ -4,8 +4,11 @@
 **Sobre mi**
 
 💻 Estudiante de Ingeniería Civil en Informática
+<br>
 ✨ Areas de interés: Ciberseguridad, desarrollo de software
+<br>
 📌 Trabajando en proyectos de POO
+<br>
 ☕ Adicta al café
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
